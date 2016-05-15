@@ -37,3 +37,9 @@ $ cp config_example.yaml config.yaml
 ```
 $ ./scrape_supp411.py
 ```
+
+An initial Jupyter notebook for analysis contains some initial data queries on the mysql data.
+
+```
+$ jupyter notebook &
+```
