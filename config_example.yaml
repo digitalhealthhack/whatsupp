@@ -1,0 +1,18 @@
+hostname: hostname_eg_localhost
+username: username
+password: user_password
+database: database_name_eg_whatsupp
+
+supp411_firstname: firstname
+supp411_lastname: lastname
+supp411_email: name@email.com
+supp411_role: Other
+
+# For supp411_role, need to supply appropriate role
+#  - Athlete  
+#  - Coach
+#  - Agent
+#  - Medical professional 
+#  - Parent
+#  - Sport administrator
+#  - Other
